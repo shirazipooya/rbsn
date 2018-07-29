@@ -1,0 +1,13 @@
+Parameter,abbv
+Minimum Daily Temperature,tmin
+Mean Daily Temperature,tave
+Maximum Daily Temperature,tmax
+Mean Daily Dew Point,dp
+Total Daily Precipitation,prec
+Mean Daily Wind Direction,wd
+Mean Daily Wind Speed,ws
+Mean Daily Station Pressure,stp
+Mean Daily Sea Level Pressure,slp
+Mean Daily Actual Vapour Pressure,ea
+Mean Daily Saturation Vapour Pressure,es
+Mean Daily Relative Humidity,rh
